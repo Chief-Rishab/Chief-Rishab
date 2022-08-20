@@ -1,7 +1,7 @@
 
-<h1 align="center"> Hi there 👋 I am Rishab! </h1>
+<h1> Hi there 👋 I am Rishab! </h1>
 
-<a><img align="right" alt="Rishab" width="550px" src="https://github-readme-stats.vercel.app/api?username=Chief-Rishab&theme=radical"></a>
+<a><img align="right" alt="Rishab" width="470px" src="https://github-readme-stats.vercel.app/api?username=Chief-Rishab&theme=radical"></a>
 I'm currently studying at **BITS Pilani**, exploring various fields!
 <br/>
 <!-- <img align="right" height="225" src="004b173f6e3d6843df10114e087f30a8.gif"> -->
