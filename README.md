@@ -3,7 +3,7 @@
 
 <a  href="https://github.com/github-readme-stats"><img align="right" alt="Rishab" width="470px" src="https://github-readme-stats.vercel.app/api?username=Chief-Rishab&theme=dracula&show_icons=true&locale=en"  alt="Chief-Rishab">
 </a>
-An alumnus of **BITS Pilani** working in **Gojek** Data Platform team, exploring various fields!
+An alumnus of **BITS Pilani** exploring various fields!
 <br/>
 <!-- <img align="right" height="225" src="004b173f6e3d6843df10114e087f30a8.gif"> -->
 
