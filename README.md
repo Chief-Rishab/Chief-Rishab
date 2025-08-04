@@ -15,3 +15,5 @@ An alumnus of **BITS Pilani** exploring various fields!
 
 - 📫 Let's connect on LinkedIn  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="2.5%"/>](https://www.linkedin.com/in/rishab-jain-b9701b194/)
 
+- For Work Related Queries, mail on rishab.jain7209@gmail.com
+
