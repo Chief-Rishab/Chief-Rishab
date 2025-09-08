@@ -6,7 +6,7 @@
 
 ---
 
-🚀 Currently working as a **Senior Backend Engineer** at **Gojek**, building scalable microservices using **Golang**.
+🚀 Currently working as a **Senior Software Engineer** at **Gojek**, building scalable microservices using **Golang**.
 
 💻 All of my projects live here → [@Chief-Rishab](https://github.com/Chief-Rishab)
 
